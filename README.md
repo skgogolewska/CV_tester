@@ -6,3 +6,4 @@
 
 #### Moje ulibione narzędzia testerskie
 - JIRA
+cos
