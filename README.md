@@ -3,3 +3,6 @@
 ##### WSB
 ## tester
 ### Sylwia
+
+#### Moje ulibione narzędzia testerskie
+- JIRA
